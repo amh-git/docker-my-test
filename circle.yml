@@ -1,5 +1,5 @@
 # The deployment section should be excluded until
-# test it is explicitly included in module 5
+# iiss test it is explicitly included in module 5
 deployment:
   dockerhub:
     branch: master
